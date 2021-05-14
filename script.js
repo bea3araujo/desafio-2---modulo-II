@@ -50,7 +50,7 @@ else{
 //5//
 let nome = "E"
 let sobrenome = Carvalho
-if ((nome == "E") || (sobrenome > length < 6)) {
+if ((nome = "E") || (sobrenome > length < 6)) {
     console.log("seu nome começa com a letra E ou seu sobrenome contem mais de 6 caracteres")
 }
 else{
